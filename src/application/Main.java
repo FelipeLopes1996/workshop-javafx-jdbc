@@ -34,6 +34,7 @@ public class Main extends Application {
 		return mainScene;
 	}
 	
+	
 	public static void main(String[] args) {
 		launch(args);
 	}
